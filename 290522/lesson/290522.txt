@@ -1,0 +1,32 @@
+1. Kiểu dữ liệu
+- string, number, boolean, null, undefined, array (object), function
+- primitive (string, number, boolean, null, undefined) / non-priomitive (array, object, function)
+
+var obj = {
+    x: 1,
+    y: 2
+}
+
+var arr = [1,2,3,];
+
+var func = function(x, y){
+    return x+y;
+}
+
+var result = func(1,2);
+
+var str = '1' hoặc "1";
+
+var numb = 1,2,3, 3.2, 3.2222
+
+var boolean = true, false, (1 || 1, true && false)
+
+true && true = true;
+true && false = false && true = false && false = false;
+
+true || true = true || false = false || true = true;
+false || false = false;
+
+null -> null
+
+undefined -> undefined
