@@ -1,0 +1,4 @@
+1. let - var - const
+2. git docs
+3. spread operator
+4. function built-in trong array: filter, map, reduce, indexOf, slice, splice, forEach
