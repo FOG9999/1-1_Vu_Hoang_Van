@@ -1,0 +1,19 @@
+td {
+    width: 145px;
+    height: 145px;
+    border: solid 1px black;
+}
+
+td:hover {
+    cursor: pointer;
+}
+
+.btns {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.table-container, .btns, .current-turn {
+    display: flex;
+    justify-content: center;
+}
